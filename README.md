@@ -35,9 +35,5 @@ Join me for live sessions focused on discovery, technology, gaming, all in a zen
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GFayrr&color=1e3a5f&style=flat-square&label=VISITEURS" alt="Profile Views" />
-</p>
-
-<p align="center">
   <i>"The line is a rune, silence is a fjord."</i>
 </p>
