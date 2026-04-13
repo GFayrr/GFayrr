@@ -1,7 +1,7 @@
 # ᚠ FAYR / フェイル 
 
 <p align="center">
-  <img src="URL_DE_TA_BANNIERE_GENEREE" alt="Fayr Banner" width="100%">
+  <img src="Fayr - Banner.png" alt="Fayr Banner" width="100%">
 </p>
 
 ## 🌌 À propos de Fayr
@@ -21,9 +21,9 @@ Retrouvez-moi pour des sessions de live axées sur la découverte, le design et 
 
 | 🎮 Plateforme | 🔗 Lien |
 | :--- | :--- |
-| **Twitch** | [twitch.tv/fayr_live](https://twitch.tv/gfayrr) |
-| **YouTube** | [Fayr / フェイル](https://youtube.com/GFayrr) |
-| **Twitter (X)** | [@fayr_fail](https://x.com/GFayrr) |
+| **Twitch** | [Fayr](https://twitch.tv/gfayrr) |
+| **YouTube** | [Fayr](https://youtube.com/GFayrr) |
+| **Twitter (X)** | [Fayr](https://x.com/GFayrr) |
 
 ---
 
