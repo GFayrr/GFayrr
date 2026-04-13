@@ -4,22 +4,22 @@
   <img src="Fayr - Banner.png" alt="Fayr Banner" width="100%">
 </p>
 
-## 🌌 À propos de Fayr
-Fusion entre l'art minimaliste du **Sumi-e** (lavis à l'encre) et la force de la **Mythologie Nordique**. Fayr est un espace dédié au streaming de qualité, à l'esthétique épurée et à la sérénité du trait.
+## 🌌 About Fayr
+A fusion between the minimalist art of **Sumi-e** (ink wash) and the power of **Norse Mythology**.
 
 ---
 
-### 🎨 Direction Artistique
-- **Style :** Sumi-e & Nordic Mythology
-- **Couleurs :** Bleu Fjord (#1E3A5F), Encre Noire, Lueur Violette
-- **Typographie :** Jost & Shippori Mincho
+### 🎨 Artistic Direction
+- **Style:** Sumi-e & Nordic Mythology
+- **Colors:** Fjord Blue, Black Ink, Purple Glow
+- **Typography:** Jost & Shippori Mincho
 
 ---
 
-### 🎙️ Streaming & Contenu
-Retrouvez-moi pour des sessions de live axées sur la découverte, le design et le gaming, le tout dans une ambiance zen et immersive.
+### 🎙️ Streaming & Content
+Join me for live sessions focused on discovery, technology, gaming, all in a zen and immersive atmosphere.
 
-| 🎮 Plateforme | 🔗 Lien |
+| 🎮 Platform | 🔗 Link |
 | :--- | :--- |
 | **Twitch** | [Fayr](https://twitch.tv/gfayrr) |
 | **YouTube** | [Fayr](https://youtube.com/GFayrr) |
@@ -30,7 +30,7 @@ Retrouvez-moi pour des sessions de live axées sur la découverte, le design et 
 ### 🛠️ Setup & Stack
 - **Overlay :** Custom Sumi-e Design
 - **Bot :** Custom Integration
-- **Ambiance :** Lo-fi & Nordic Folk
+- **Ambiance :** Nordic Folk
 
 ---
 
@@ -39,5 +39,5 @@ Retrouvez-moi pour des sessions de live axées sur la découverte, le design et 
 </p>
 
 <p align="center">
-  <i>"Le trait est une rune, le silence est un fjord."</i>
+  <i>"The line is a rune, silence is a fjord."</i>
 </p>
