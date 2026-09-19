@@ -23,7 +23,6 @@ Join me for live sessions focused on discovery, technology, gaming, all in a zen
 | :--- | :--- |
 | **Twitch** | [Fayr](https://twitch.tv/gfayrr) |
 | **YouTube** | [Fayr](https://youtube.com/GFayrr) |
-| **Twitter (X)** | [Fayr](https://x.com/GFayrr) |
 
 ---
 
