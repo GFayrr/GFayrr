@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="title">
+  <title id="title">FAYR — フェイル</title>
+  <rect width="1280" height="320" rx="8" fill="#16181D"/>
+  <g fill="none" stroke="#8B6FC2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M459.6 94.9 A85 85 0 1 1 419.8 76.3" stroke-width="7"/><path d="M452 99 A80 80 0 1 1 413 81" stroke-width="2.5" opacity="0.45"/>
+    <path d="M383 120 V200 M427 120 V200 M383 120 L427 160 M427 120 L383 160" stroke-width="6"/>
+  </g>
+  <path d="M554 88 V184 M550 92 H610 M554 134 H602 M654 184 L694 90 L734 184 M668 152 H721 M778 88 L816 138 L854 88 M816 138 V184 M902 88 V184 M902 92 H928 A24 24 0 0 1 928 140 H902 M928 140 L958 184" fill="none" stroke="#E5E3DB" stroke-width="8" stroke-linejoin="round"/>
+  <path d="M0 4 H28 Q26 24 6 34 M46 14 H66 M56 14 V32 M43 32 H69 M110 0 Q100 14 82 22 M100 10 V36 M132 4 V20 Q132 30 124 36 M144 2 V34 Q152 30 158 24" transform="translate(556 214)" fill="none" stroke="#E5E3DB" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
